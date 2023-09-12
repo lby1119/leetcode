@@ -1,4 +1,4 @@
-package leet_hot_100;
+package leet1_99;
 
 import org.junit.Test;
 
